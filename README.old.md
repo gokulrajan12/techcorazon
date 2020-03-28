@@ -1,2 +1,0 @@
-# techcorazon
-The parent company
