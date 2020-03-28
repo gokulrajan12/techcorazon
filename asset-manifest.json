@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/techcorazon/static/css/main.5f361e03.chunk.css",
-    "main.js": "/techcorazon/static/js/main.966ce110.chunk.js",
-    "main.js.map": "/techcorazon/static/js/main.966ce110.chunk.js.map",
+    "main.js": "/techcorazon/static/js/main.736ebb8c.chunk.js",
+    "main.js.map": "/techcorazon/static/js/main.736ebb8c.chunk.js.map",
     "runtime-main.js": "/techcorazon/static/js/runtime-main.8ac02230.js",
     "runtime-main.js.map": "/techcorazon/static/js/runtime-main.8ac02230.js.map",
     "static/js/2.e80806cb.chunk.js": "/techcorazon/static/js/2.e80806cb.chunk.js",
     "static/js/2.e80806cb.chunk.js.map": "/techcorazon/static/js/2.e80806cb.chunk.js.map",
     "index.html": "/techcorazon/index.html",
-    "precache-manifest.1c87138cd5357918affe07e9a13d89ea.js": "/techcorazon/precache-manifest.1c87138cd5357918affe07e9a13d89ea.js",
+    "precache-manifest.62be08caca4b36ab0d9912f5b8efb042.js": "/techcorazon/precache-manifest.62be08caca4b36ab0d9912f5b8efb042.js",
     "service-worker.js": "/techcorazon/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/techcorazon/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.e80806cb.chunk.js.LICENSE.txt": "/techcorazon/static/js/2.e80806cb.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8ac02230.js",
     "static/js/2.e80806cb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.966ce110.chunk.js"
+    "static/js/main.736ebb8c.chunk.js"
   ]
 }
